@@ -69,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-![Visits](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGiridharanS1729%UID_LAB%2F&countColor=%23263759)
+![Visits](https://visitor-badge.imlete.cn/?id=GiridharanS1729.UID_LAB&label=Views&type=uv&style=for-the-badge&labelColor=black&color=yellow)
